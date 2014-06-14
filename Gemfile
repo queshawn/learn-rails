@@ -25,8 +25,8 @@ gem 'high_voltage'
 gem 'simple_form'
 
 group :developemt do 
-	gem 'beter_errors'
-	gem 'quite_assets'
+	gem 'better_errors'
+	gem 'quiet_assets'
 	gem "rails_layout"
 
 end
