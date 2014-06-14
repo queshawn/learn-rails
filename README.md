@@ -8,3 +8,4 @@ In this app we learn how to:
 * Use Rails
 * Use Ruby
 * Understand the web architecture
+* And also meet nice people
