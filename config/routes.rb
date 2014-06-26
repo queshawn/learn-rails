@@ -1,6 +1,5 @@
 Rails.application.routes.draw do
-
-root to: 'visitors#new'
-
+	post 'contact', to: 'contract#process_form'
+	root to: 'visitors#new'
 end
 
